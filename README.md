@@ -9,3 +9,12 @@ sample code
     }
 ```
 changed
+
+fetch
+pull
+push
+add
+log
+status
+clone
+commit
